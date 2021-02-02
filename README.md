@@ -13,4 +13,5 @@ There are easter egg words from Terminator and Blade Runner that are not necessa
 **Sample Game Screenshots**
 
 ![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen.JPG)
+
 ![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_1.JPG)
