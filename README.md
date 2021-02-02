@@ -11,3 +11,6 @@ There is a known bug in which the images do not display correctly for the first 
 There are easter egg words from Terminator and Blade Runner that are not necessarily data science related. 
 
 **Sample Game Screenshots**
+
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_1.JPG)
