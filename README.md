@@ -12,18 +12,18 @@ There are easter egg words from Terminator and Blade Runner that are not necessa
 
 **Sample Game Screenshots**
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen.JPG)
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_1.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen_1.JPG)
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_2.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen_2.JPG)
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_3.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen_3.JPG)
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_4.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen_4.JPG)
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_5.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen_5.JPG)
 
-![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Game_Screen_6.JPG)
+![alt text](https://github.com/aaronmkwong/Python-Hangman-Game/blob/main/Images/Game_Screen_6.JPG)
 
 P.S. The answer was "Terminated".
