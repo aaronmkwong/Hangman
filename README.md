@@ -1,4 +1,4 @@
-# Python-Hangman-Game
+# Hangman
 
 **Description**
 
